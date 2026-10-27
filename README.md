@@ -4,15 +4,15 @@ My useful tools/links for medical life.
 ## 傳染病
 
 - 流感：
-    - [疫苗](https://www.cdc.gov.tw/Category/MPage/JNTC9qza3F_rgt9sRHqV2Q)：[公費對象](https://www.cdc.gov.tw/File/Get/om1fPXrhC0oM-kq9v-m4VQ)、[慢性病代碼](https://www.cdc.gov.tw/File/Get/om1fPXrhC0oM-kq9v-m4VQ)、[接種計畫](https://www.cdc.gov.tw/File/Get/vtqbmLpBSkjJdWKZ3-8BAw)。  
+    - [疫苗](https://www.cdc.gov.tw/Category/MPage/JNTC9qza3F_rgt9sRHqV2Q)：[擴大對象](https://www.cdc.gov.tw/Bulletin/Detail/0htRoySn4Y2h9MuSX8wBHg?typeid=48)、[慢性病代碼](https://www.cdc.gov.tw/File/Get/om1fPXrhC0oM-kq9v-m4VQ)、[接種計畫](https://www.cdc.gov.tw/File/Get/vtqbmLpBSkjJdWKZ3-8BAw)。  
     BMI≧30。
 
-    - [治療](https://www.cdc.gov.tw/Category/Page/fHHHNV-HWyYD00tnKeXsLA)：[使用對象一覽表](https://www.cdc.gov.tw/File/Get/SDmsd52in5uL-1DuplBZkQ)。  
+    - [治療](https://www.cdc.gov.tw/Category/Page/fHHHNV-HWyYD00tnKeXsLA)：[使用對象一覽表](https://www.cdc.gov.tw/File/Get/PkV9o5A1f2bZRw7aonGPnA)。  
         - 未滿5歲及65歲以上之類流感患者。
         - 孕婦及產後兩週內之婦女經評估需及時用藥者。
         - <em>**BMI ≥30**</em>。
         - 重大傷病、免疫不全、高風險慢性病。
-        - 擴大使用對象至<em>**115-10-31**</em>。
+        - 擴大使用對象至<em>**115-11-15**</em>。
             - 與高風險同住或其照顧者。
             - 安養、長照機構受照顧者及工作人員。
             - 醫事單位工作人員。(執登及非醫事人員)
